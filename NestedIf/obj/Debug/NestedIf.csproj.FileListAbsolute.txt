@@ -1,0 +1,6 @@
+C:\Users\win10\Documents\kodingan saya\C#\NestedIf\NestedIf\bin\Debug\NestedIf.exe.config
+C:\Users\win10\Documents\kodingan saya\C#\NestedIf\NestedIf\obj\Debug\NestedIf.exe
+C:\Users\win10\Documents\kodingan saya\C#\NestedIf\NestedIf\obj\Debug\NestedIf.pdb
+C:\Users\win10\Documents\kodingan saya\C#\NestedIf\NestedIf\bin\Debug\NestedIf.exe
+C:\Users\win10\Documents\kodingan saya\C#\NestedIf\NestedIf\bin\Debug\NestedIf.pdb
+C:\Users\win10\Documents\kodingan saya\C#\NestedIf\NestedIf\obj\Debug\NestedIf.csprojResolveAssemblyReference.cache
